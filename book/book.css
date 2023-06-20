@@ -631,7 +631,7 @@ p1{
     left: 510px;
 }
 }
-@media only screen and (width: 1960px) {
+@media only screen and (width: 1920px) {
 .nav {
     width: 500px;
 }
@@ -657,7 +657,7 @@ body{
 }
 p{
     position: absolute;
-    left: 885px;
+    left: 310px;
     font-size: 90px;
 }
 p1{
